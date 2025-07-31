@@ -258,6 +258,10 @@ table Medidas
 
 		annotation PBI_FormatHint = {"currencyCulture":"es-PE"}
 
+	measure Esto_Es_una_prueba = COUNTROWS(Customer)
+		formatString: 0
+		lineageTag: 02ac86bb-aac0-4cc4-a61f-eeaffa8ae29a
+
 	partition Medidas = m
 		mode: import
 		source =
