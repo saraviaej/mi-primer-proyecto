@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Laboratorio 1 DAX - Solucionado"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "873dcc79-a956-4ca9-9569-bc155d64ea77"
+  }
+}
